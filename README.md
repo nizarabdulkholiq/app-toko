@@ -1,6 +1,6 @@
 # app-toko
-# Deskripsi App 
-# Bahasa Program : PHP
+# App Description
+# Program Language: PHP
 # Database - XAMPP (PHPMYADMIN)
 
 # NATIVE
